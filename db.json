@@ -1,0 +1,39 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "titre": "Carte Playstation Network 12€ - France",
+      "description":"Crédits pour le porte-monnaie virtuel PSN Un système Playstation 5, PlayStation4, Playstation 3",
+      "image": "src/assets/img/carte-playstation-network-12eur-12-euros-card-playstation-3-playstation-4-playstation-5-jeu-playstation-store-france-cover.jpg\"",
+      "prix":12.00,
+      "stock": false
+    },
+    {
+      "id": 2,
+      "titre": "PlayStation Network Card 20€ - France",
+      "description":"Crédits pour le porte-monnaie virtuel PSN Un système Playstation 5, PlayStation4, Playstation 3",
+      "image":"",
+      "prix":20.00,
+      "stock": true
+    },
+    {
+      "id": 3,
+      "titre": "Carte Playstation Network 50€ - France",
+      "description":"Crédits pour le porte-monnaie virtuel PSN Un système Playstation 5, PlayStation4, Playstation 3",
+      "image": "",
+      "prix":50.00,
+      "stock": true
+    }
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
